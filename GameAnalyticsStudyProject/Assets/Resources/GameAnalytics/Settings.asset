@@ -26,9 +26,9 @@ MonoBehaviour:
   UserMessagesFailed: 0
   CustomArea: 
   gameKey:
-  - 
+  - 8e7aeb08da7b329f943bbb43f178179b
   secretKey:
-  - 
+  - 453d31e065712d1bff691e7e3f12f6b62f78eec5
   Build:
   - 0.1
   SelectedPlatformOrganization:
@@ -36,11 +36,11 @@ MonoBehaviour:
   SelectedPlatformStudio:
   - Study
   SelectedPlatformGame:
-  - TheDeepestDark
-  SelectedPlatformGameID: c9e10400
+  - GameAnalyticsStudyProject
+  SelectedPlatformGameID: c7090500
   SelectedOrganization: 01000000
   SelectedStudio: 01000000
-  SelectedGame: 00000000
+  SelectedGame: 01000000
   NewVersion: 
   Changes: 
   SignUpOpen: 0
